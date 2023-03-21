@@ -780,9 +780,9 @@ document.localization ['pt_PT'] = {
     'breadcrumb.config.details': 'Detalhes',
     'breadcrumb.application.versions': 'Versões',
 
-    'app.name': 'Headwind MDM',
-    'app.vendor.name':"h-mdm.com",
-    'app.vendor.link':"https://h-mdm.com",
+    'app.name': 'Mobile-crypto MDM',
+    'app.vendor.name':"mobile-crypto.net",
+    'app.vendor.link':"https://mdm.mobile-crypto.net",
     'app.description': 'é o sistema de gerenciamento de dispositivos móveis de código aberto',
     'app.title': 'Painel Web ${appName}',
 
